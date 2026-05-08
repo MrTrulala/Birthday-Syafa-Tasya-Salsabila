@@ -153,7 +153,7 @@ export default function App() {
               className="wa"
               onClick={() => openWA("Bisa dong! Jemput Aku pulang outing ya!")}
             >
-              Bisa dong! Aku pulang outing ya 💚
+              Bisa dong! Jemput Aku pulang outing ya 💚
             </button>
             <button
               onClick={() => openWA("Mau, tapi jamnya aku yang tentuin ya")}
